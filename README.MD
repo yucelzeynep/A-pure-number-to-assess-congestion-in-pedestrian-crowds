@@ -3,9 +3,9 @@
 
 This repository contains the resources necessary for reproducing the results reported in our manuscript submitted to PRX (2020). 
 
-A preprint of the -earlier- version of the article can be found at [Zanlungo2020], and the interested reader may also refer to [Feliciani2018], for the sprouting of the idea.
+A preprint of the -earlier- version of the article can be found at [Zanlungo2020], and the interested reader may also refer to [Feliciani2018] for the sprouting of the idea.
 
-The implementation in this repository is the original work of Dr. Francesco Zanlungo. You may communicate your comments or questions to zanlungo AT_MARK atr.jp.
+The implementation in this repository is the original work of Dr. Francesco Zanlungo. Any comments or questions can be communicated to zanlungo AT_MARK atr.jp.
 
 
 **Main routines**
