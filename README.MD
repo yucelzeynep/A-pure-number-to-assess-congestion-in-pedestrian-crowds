@@ -10,7 +10,7 @@ The implementation in this repository is the original work of Dr. Francesco Zanl
 
 **Main routines**
 
-The programs are developed in and is done in C++ with no specific dependencies. But Simple DirectMedia Layer (SDL1.2) is necessary for producing the graphics. 
+The programs are developed in C++ with no specific dependencies. But Simple DirectMedia Layer (SDL1.2) is necessary for producing the graphics. 
 
 There are two versions of the cn_computation code, cn_computation and cn_computation2.
 
@@ -42,4 +42,4 @@ The data in the folder /positions correspond to the "low density realistic setti
 
 [Zanlungo2020] Zanlungo, F., Feliciani, C., Yucel, Z., Nishinari, K., & Kanda, T. (2020). Some considerations on crowd Congestion Level. arXiv preprint arXiv:2004.01883.
 
-[Feliciani2018] Feliciani, C., & Nishinari, K. (2018). Measurement of congestion and intrinsic risk in pedestrian crowds. Transportation research part C: emerging technologies, 91, 124-155.
+[Feliciani2018] Feliciani, C., & Nishinari, K. (2018). Measurement of congestion and intrinsic risk in pedestrian crowds. Transportation Research Part C: Emerging Technologies, 91, 124-155.
