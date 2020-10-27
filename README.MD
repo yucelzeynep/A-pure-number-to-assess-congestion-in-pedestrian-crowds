@@ -1,14 +1,16 @@
 
 # A pure number to assess “congestion” in pedestrian crowds
 
-This repository contains the resources necessary for reproducing the results reported in our manuscript submitted to PRX (2020). A preprint of the -earlier- version of the article can be found at [Zanlungo2020]. You may also refer to [Feliciani2018], where the idea was first proposed.
+This repository contains the resources necessary for reproducing the results reported in our manuscript submitted to PRX (2020). 
 
-The implementation is done by Dr. Francesco Zanlungo in C++. You may communicate your comments or questions to zanlungo AT_MARK atr.jp.
+A preprint of the -earlier- version of the article can be found at [Zanlungo2020]. You may also refer to [Feliciani2018], where the idea was first proposed.
+
+The implementation in this repository is the original work of Dr. Francesco Zanlungo. You may communicate your comments or questions to zanlungo AT_MARK atr.jp.
 
 
 **Main routines**
 
-There are no specific dependencies but Simple DirectMedia Layer (SDL1.2) is necessary for producing the graphics. 
+The programs are developed in and is done in C++ with no specific dependencies. But Simple DirectMedia Layer (SDL1.2) is necessary for producing the graphics. 
 
 There are two versions of the cn_computation code, cn_computation and cn_computation2.
 
