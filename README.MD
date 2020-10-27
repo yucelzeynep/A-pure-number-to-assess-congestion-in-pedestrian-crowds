@@ -26,9 +26,9 @@ GRID_SIZE is the actual size of a grid cell.
 
 TIME_INTERVAL is the time step, over which the integration of the velocity field is performed.
 
-CN_COMP_RAD is is the radius in GRID_SIZE units and it decides the size of the ROI (Region Of Interest).
+CN_COMP_RAD is the radius in GRID_SIZE units and it decides the size of the ROI (Region Of Interest).
 
-X_MIN, Y_MIN etc. in parameters give the area, in which data is checked.
+X_MIN, Y_MIN etc. give the area, in which data is checked.
 
 TI is the time span (end of experiment, the beginning is supposed to be 0), These are not needed in parameters2 (that can analyse also negative time), but we can pass an area of interest with XI_MIN etc. 
 
