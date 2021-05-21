@@ -1,7 +1,7 @@
 
 # A pure number to assess “congestion” in pedestrian crowds
 
-This repository contains the resources necessary for reproducing the results reported in our manuscript submitted to PRX (2020). 
+This repository contains the resources necessary for reproducing the results reported in our manuscript. 
 
 The implementation in this repository is the original work of Dr. Francesco Zanlungo. Any comments or questions can be communicated to zanlungo AT_MARK atr.jp.
 
